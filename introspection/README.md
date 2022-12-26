@@ -10,7 +10,7 @@
    task for the flame game and need to learn more in this field.               
 
 (c). How would you contribute back to the club?
->>>After I can gain all the experience I have to learn, I would like to contribute to open source, mentoring
+>>>After I gain all the experience which I have to learn, I would like to contribute to open source, mentoring
    the new members of the club and contribute to the many coders out there, with the help of blogs etc.
    
 (d). Do you have any feedback on the selection process?
