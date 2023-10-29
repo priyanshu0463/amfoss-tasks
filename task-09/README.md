@@ -6,4 +6,4 @@ This Flutter application is designed to help users find a route between their cu
 
 [![YouTube Video](https://img.youtube.com/vi/cgEwPsajITw/0.jpg)](https://www.youtube.com/watch?v=cgEwPsajITw)
 
--click to play-
+-click on the preview to play-
