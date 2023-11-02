@@ -9,3 +9,4 @@ I got an issue when attempting to retrieve a Pokémon image. Despite trying vari
 
 Error Img:
 
+![Screenshot from 2023-11-02 11-36-36](https://github.com/priyanshu0463/amfoss-tasks/assets/112779111/c476057f-986b-46c0-b520-f138c4436026)
