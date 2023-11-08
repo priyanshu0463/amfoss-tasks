@@ -22,3 +22,10 @@ Welcome to WeatherMate, your trusty companion for staying well-informed about th
 Say goodbye to surprises from Mother Nature and hello to a well-prepared, confident you!
 
 # Screenshots
+![Screenshot from 2023-10-15 20-15-12](https://github.com/priyanshu0463/amfoss-tasks/assets/112779111/be25a937-c8dd-488e-abbe-04ab29bc757c)
+![Screenshot from 2023-10-15 20-16-00](https://github.com/priyanshu0463/amfoss-tasks/assets/112779111/b002cda3-95a8-4452-85e8-7c6942b977e1)
+![Screenshot from 2023-10-15 20-16-34](https://github.com/priyanshu0463/amfoss-tasks/assets/112779111/f665535d-087b-4b4d-935b-380fd1082a96)
+
+
+
+
