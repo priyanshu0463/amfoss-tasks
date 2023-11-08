@@ -31,3 +31,6 @@ Let's dive into the world of cricket together with Crickey!
 
 
 # demo-screenshot:
+![Screenshot ](https://github.com/priyanshu0463/amfoss-tasks/assets/112779111/4297c2f4-6425-49ce-ba8e-b5ec0881d529)
+
+
