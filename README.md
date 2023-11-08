@@ -6,7 +6,7 @@ GitHub link: https://github.com/priyanshu0463
 
 ### Beyond my academic pursuits
 
- My early academic journey has equipped me with foundational knowledge in web development and software development, enabling me to craft basic web applications and software prototypes. Proficient in programming languages like Python, Java, and JavaScript, I am committed to deepening my expertise, exploring emerging technologies, and honing the abilities necessary to tackle intricate programming challenges.
+ My early academic journey has equipped me with foundational knowledge in web development and android development, enabling me to craft basic web applications and software prototypes. Proficient in programming languages like Python, Java, and JavaScript, I am committed to deepening my expertise, exploring emerging technologies, and honing the abilities necessary to tackle intricate programming challenges.
 
 I am an avid learner, continuously seeking opportunities to broaden my horizons and stay abreast of industry trends. I thrive on embracing new challenges that foster both personal and professional growth.
 
