@@ -24,7 +24,7 @@ My task statistics are as shown-
 | [Task-10](https://github.com/priyanshu0463/amfoss-tasks/tree/main/task-10)   | RuskOS | Attempted  |
 | [Task-11]   | TinkerCAD | Not Attempted |
 | Task-12   | Godot | Completed|
-| Task-13(https://github.com/priyanshu0463/amfoss-tasks/tree/main/task-13)   | Vim | Completed |
+| [ask-13](https://github.com/priyanshu0463/amfoss-tasks/tree/main/task-13)   | Vim | Completed |
 | [Task-14](https://github.com/priyanshu0463/amfoss-tasks/tree/main/task-14)   | Bandit | Completed |
 | Task-15   | Project Euler | Not attempted |
 
