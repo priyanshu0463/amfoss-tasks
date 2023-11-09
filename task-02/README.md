@@ -1,6 +1,6 @@
 # Priyanshu's Portfolio
 
-![Priyanshu's Portfolio website](https://priyanshu0463.github.io/puffer/)
+[Priyanshu's Portfolio website](https://priyanshu0463.github.io/puffer/)
 
 Hello, I'm Priyanshu, a 19-year-old college student on a quest to embrace open source technology and acquire the skills to contribute meaningfully to forward-thinking organizations. Currently pursuing a 4-year ELC Btech course at Amrita Vishwa Vidyapeetham, Amritapuri, I am dedicated to combining my academic pursuits with my passion for technology.
 
