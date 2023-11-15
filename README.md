@@ -9,7 +9,7 @@ My task statistics are as shown-
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| [Task-00]   | Installing Ubuntu | Completed |
+| Task-00   | Installing Ubuntu | Completed |
 | [Task-01](https://github.com/priyanshu0463/amfoss-tasks/tree/main/task-01)   | Terminal Wizard | Completed |
 | [Task-02](https://github.com/priyanshu0463/amfoss-tasks/tree/main/task-02)   | Lessgo Hugo | Completed |
 | [Task-03](https://github.com/priyanshu0463/amfoss-tasks/tree/main/task-03)  | Hello, World! | Completed |
