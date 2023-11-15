@@ -1,4 +1,4 @@
-## Approach towards the problems
+# Approach towards the problems
 
 # 01
 The code employs a mathematical approach to efficiently calculate the sum of multiples of 3 and 5 up to a given number for each test case. It begins by adjusting the input value n if it is greater than 0. Then, it calculates the number of multiples of 3 (j), 5 (k), and 15 (m) using integer divisions. The code utilizes the arithmetic sum formula to find the sum of multiples for each of these numbers: l = (j * (3 + j * 3)) / 2 for multiples of 3, n = (k * (5 + k * 5)) / 2 for multiples of 5, and o = (m * (15 + m * 15)) / 2 for multiples of 15. Finally, it prints the sum of multiples of 3 and 5 up to the adjusted n using the formula l + n - o. This approach optimizes the computation by avoiding explicit iteration through all the numbers, leveraging mathematical formulas for the sum of arithmetic sequences.
