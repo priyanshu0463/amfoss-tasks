@@ -1,4 +1,4 @@
-# Priyanshu's Portfolio (https://conntree.vercel.app/)
+# Priyanshu's Portfolio
 
 [Priyanshu's Portfolio website](https://priyanshu0463.github.io/puffer/)
 
